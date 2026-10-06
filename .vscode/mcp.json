@@ -1,0 +1,9 @@
+{
+    "servers": {
+        "dws-mcp-server": {
+            "url": "https://02133-dws-mcp-prd-alb.eci0254d.eas.morningstar.com/mcp",
+            //  "url": "https://dws.morningstar.com/discovery-assistant/mcp",
+            "type": "http"
+        }
+    }
+}

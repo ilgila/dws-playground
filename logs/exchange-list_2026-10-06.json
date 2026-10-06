@@ -1,0 +1,2071 @@
+{
+  "timestamp_utc": "2026-10-06T15:46:03.702766+00:00",
+  "request": {
+    "method": "GET",
+    "url": "https://www.emea-api.morningstar.com/direct-web-services/v1/investments/views",
+    "headers": {
+      "Authorization": "Bearer <redacted>",
+      "Content-Type": "application/json"
+    }
+  },
+  "response": {
+    "http_status": 200,
+    "body": {
+      "views": [
+        {
+          "package": {
+            "viewId": "equitySnapshotSplit"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "custom-view1"
+          },
+          "isSync": true,
+          "isAsync": false
+        },
+        {
+          "package": {
+            "viewId": "equitySnapshotSummary"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "equitySnapshotKeyMetrics"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "equitySnapshotValuation"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "equitySnapshotDividend"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "equitySnapshot"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityIndustryClassificationMR"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityBasicReferenceAndReturnsMRSync"
+          },
+          "isSync": true,
+          "isAsync": false
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityShortInterestAndReferenceChangeTS"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityStyleBoxAndResidualRiskAndReturnSensitivityMRTS"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityTotalSharesOutstandingAndIndustrySpecificMetrics_MRTS_Parameters"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityTotalSharesOutstandingAndIndustrySpecificMetrics_MRTS_WithoutParams"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityCompensationAndConsensusEstimatesAndMarketCapitalisationAndEnterpriseValue_GDMRTS"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityTotalSharesOutstanding_DatapointLevel_Parameter"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPFundAttributesAndBasicReference"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPStrategyMappingAndManagerBioDetailsMRSync"
+          },
+          "isSync": true,
+          "isAsync": false
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPPricesMRAndNetAssetsDEMEMRHR"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPDailyReturnsMRAnnualReturnsHistorical"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPEstiCashFlowsTMEMRAndYieldsMR"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPIndexLevelsPriceAndPerformanceRanks"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPMorningstarRatingAndRiskStatistics"
+          },
+          "isSync": true,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomEquityBasicReferenceAndReturnsMRAsync"
+          },
+          "isSync": false,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "CustomMIPStrategyMappingAndManagerBioDetailsMRAsync"
+          },
+          "isSync": false,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "basic-reference"
+          },
+          "datasets": [
+            {
+              "viewId": "basic-reference"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "investment-basic-details"
+          },
+          "datasets": [
+            {
+              "viewId": "investment-basic-details"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "fund-attributes"
+          },
+          "datasets": [
+            {
+              "viewId": "fund-attributes"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "money-market-attributes"
+          },
+          "datasets": [
+            {
+              "viewId": "money-market-attributes"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "strategy-mapping"
+          },
+          "datasets": [
+            {
+              "viewId": "strategy-mapping"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "manager-bio-and-details-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "manager-bio-and-details-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "manager-bio-and-details-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "manager-bio-and-details-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-category"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-category"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "prospectus-fees"
+          },
+          "datasets": [
+            {
+              "viewId": "prospectus-fees"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "policy-fees"
+          },
+          "datasets": [
+            {
+              "viewId": "policy-fees"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "annual-report-fees-and-financials-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "annual-report-fees-and-financials-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "annual-report-fees-and-financials-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "annual-report-fees-and-financials-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "purchase-details"
+          },
+          "datasets": [
+            {
+              "viewId": "purchase-details"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "investment-disclosures"
+          },
+          "datasets": [
+            {
+              "viewId": "investment-disclosures"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "fund-votes"
+          },
+          "datasets": [
+            {
+              "viewId": "fund-votes"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "sedol"
+          },
+          "datasets": [
+            {
+              "viewId": "sedol"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "cusip"
+          },
+          "datasets": [
+            {
+              "viewId": "cusip"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "sandp-gics-classification-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "sandp-gics-classification-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-ratings-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-ratings-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-ratings-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-ratings-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-product-involvement"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-product-involvement"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-sustainable-attributes"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-sustainable-attributes"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-impact-metrics"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-impact-metrics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-principal-adverse-indicators-pais"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-principal-adverse-indicators-pais"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-gender-and-diversity"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-gender-and-diversity"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-firm-diversity-data-level-1"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-firm-diversity-data-level-1"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "eu-fund-level-sfdr-attributes-level-1"
+          },
+          "datasets": [
+            {
+              "viewId": "eu-fund-level-sfdr-attributes-level-1"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-1-data-introductory-data"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-1-data-introductory-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-carbon-emissions"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-carbon-emissions"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-product-involvement"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-product-involvement"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-esg-risk-rating"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-esg-risk-rating"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-country-risk-rating"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-country-risk-rating"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "prices-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "prices-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "prices-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "prices-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "distributions-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "distributions-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "distributions-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "distributions-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "yields-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "yields-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "yields-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "yields-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "net-assets-month-end-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "net-assets-month-end-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "net-assets-day-end-and-month-end-most-recent-and-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "net-assets-day-end-and-month-end-most-recent-and-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "estimated-cash-flows-trailing-month-end-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "estimated-cash-flows-trailing-month-end-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "daily-returns-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "daily-returns-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "month-end-trailing-performance-month-end-and-quarter-end-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "month-end-trailing-performance-month-end-and-quarter-end-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "annual-returns-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "annual-returns-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "best-and-worst-rolling-returns"
+          },
+          "datasets": [
+            {
+              "viewId": "best-and-worst-rolling-returns"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "return-index"
+          },
+          "datasets": [
+            {
+              "viewId": "return-index"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "risk-statistics"
+          },
+          "datasets": [
+            {
+              "viewId": "risk-statistics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "performance-ranks"
+          },
+          "datasets": [
+            {
+              "viewId": "performance-ranks"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-rating-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-rating-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-rating-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-rating-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "fee-level-ranks"
+          },
+          "datasets": [
+            {
+              "viewId": "fee-level-ranks"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "strategic-beta"
+          },
+          "datasets": [
+            {
+              "viewId": "strategic-beta"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "active-share"
+          },
+          "datasets": [
+            {
+              "viewId": "active-share"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "asset-allocation-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "asset-allocation-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "sub-asset-classification"
+          },
+          "datasets": [
+            {
+              "viewId": "sub-asset-classification"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "country-and-regional-exposure-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "country-and-regional-exposure-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "currency-exposure-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "currency-exposure-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-style-box"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-style-box"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-equity-style-box-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-equity-style-box-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-equity-sectors-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-equity-sectors-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "market-capital-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "market-capital-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-portfolio-statistics"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-portfolio-statistics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "fixed-income-portfolio-statistics-surveyed-analytics"
+          },
+          "datasets": [
+            {
+              "viewId": "fixed-income-portfolio-statistics-surveyed-analytics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-fixed-income-sectors-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-fixed-income-sectors-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "fixed-income-portfolio-statistics-calculated-standard-analytics"
+          },
+          "datasets": [
+            {
+              "viewId": "fixed-income-portfolio-statistics-calculated-standard-analytics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "fixed-income-portfolio-statistics-calculated-advanced-analytics"
+          },
+          "datasets": [
+            {
+              "viewId": "fixed-income-portfolio-statistics-calculated-advanced-analytics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-portfolio-risk-score"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-portfolio-risk-score"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "full-portfolio-holdings-month-end-or-quarter-end-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "full-portfolio-holdings-month-end-or-quarter-end-most-recent"
+            },
+            {
+              "viewId": "market-data-index-constituents"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "full-look-through-portfolio-holdings"
+          },
+          "datasets": [
+            {
+              "viewId": "full-look-through-portfolio-holdings"
+            }
+          ],
+          "isSync": false,
+          "isAsync": true
+        },
+        {
+          "package": {
+            "viewId": "thematic-funds"
+          },
+          "datasets": [
+            {
+              "viewId": "thematic-funds"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "factor-profile"
+          },
+          "datasets": [
+            {
+              "viewId": "factor-profile"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "annuity-policy-operational-data"
+          },
+          "datasets": [
+            {
+              "viewId": "annuity-policy-operational-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "529-college-investment-package"
+          },
+          "datasets": [
+            {
+              "viewId": "529-college-investment-package"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "us-separate-account-qualitative-data"
+          },
+          "datasets": [
+            {
+              "viewId": "us-separate-account-qualitative-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "etf-managed-portfolio"
+          },
+          "datasets": [
+            {
+              "viewId": "etf-managed-portfolio"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "target-date-data"
+          },
+          "datasets": [
+            {
+              "viewId": "target-date-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "stable-value-fund-client-breakdown"
+          },
+          "datasets": [
+            {
+              "viewId": "stable-value-fund-client-breakdown"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "stable-value-fund-contract-allocation"
+          },
+          "datasets": [
+            {
+              "viewId": "stable-value-fund-contract-allocation"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "stable-value-fund-portfolio-allocation"
+          },
+          "datasets": [
+            {
+              "viewId": "stable-value-fund-portfolio-allocation"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "stable-value-fund-reported-flows"
+          },
+          "datasets": [
+            {
+              "viewId": "stable-value-fund-reported-flows"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "stable-value-fund-top-holdings"
+          },
+          "datasets": [
+            {
+              "viewId": "stable-value-fund-top-holdings"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "stable-value-fund-aggregated-statistics"
+          },
+          "datasets": [
+            {
+              "viewId": "stable-value-fund-aggregated-statistics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-european-esg-template"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-european-esg-template"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "mifid-cost-data"
+          },
+          "datasets": [
+            {
+              "viewId": "mifid-cost-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "mifid-target-market-data"
+          },
+          "datasets": [
+            {
+              "viewId": "mifid-target-market-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "priip-kid"
+          },
+          "datasets": [
+            {
+              "viewId": "priip-kid"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-eu-taxonomy"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-eu-taxonomy"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-carbon-risk"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-carbon-risk"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-carbon-emissions"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-carbon-emissions"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-carbon-involvement"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-carbon-involvement"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-medalist-rating-most-recent"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-medalist-rating-most-recent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "portfolio-statistics-derived-from-index-constituents"
+          },
+          "datasets": [
+            {
+              "viewId": "portfolio-statistics-derived-from-index-constituents"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-1-data-low-carbon-transition-rating"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-1-data-low-carbon-transition-rating"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-sfdr-pai-corporate-voluntary"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-sfdr-pai-corporate-voluntary"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-impact-metrics-sdgs-and-themes"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-impact-metrics-sdgs-and-themes"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-esg-labels"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-esg-labels"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "rg-97-fee-components"
+          },
+          "datasets": [
+            {
+              "viewId": "rg-97-fee-components"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "n-cen"
+          },
+          "datasets": [
+            {
+              "viewId": "n-cen"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "manager-research-portfolio-analytics"
+          },
+          "datasets": [
+            {
+              "viewId": "manager-research-portfolio-analytics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "australian-tmd-data"
+          },
+          "datasets": [
+            {
+              "viewId": "australian-tmd-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-carbon-risk"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-carbon-risk"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-2-data-carbon-involvement"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-2-data-carbon-involvement"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-research-ratings-mostrecent"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-research-ratings-mostrecent"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-research-ratings-most-recent-and-historical"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-research-ratings-most-recent-and-historical"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "quantitative-equity-research-ratings"
+          },
+          "datasets": [
+            {
+              "viewId": "quantitative-fair-value"
+            },
+            {
+              "viewId": "quantitative-ratings"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-low-carbon-transition-rating"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-low-carbon-transition-rating"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "msci-country-classification"
+          },
+          "datasets": [
+            {
+              "viewId": "msci-country-classification"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "hfr-hedge-fund"
+          },
+          "datasets": [
+            {
+              "viewId": "hfr-hedge-fund"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "ubs-separate-accounts"
+          },
+          "datasets": [
+            {
+              "viewId": "ubs-separate-accounts"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "evestment-operation"
+          },
+          "datasets": [
+            {
+              "viewId": "evestment-operation"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "performance-attribution-data"
+          },
+          "datasets": [
+            {
+              "viewId": "performance-attribution-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "india-sector"
+          },
+          "datasets": [
+            {
+              "viewId": "india-sector"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "gics-industry-and-subindustry"
+          },
+          "datasets": [
+            {
+              "viewId": "gics-industry-and-subindustry"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "wm-or-reuters-historical-exchange-rates"
+          },
+          "datasets": [
+            {
+              "viewId": "wm-or-reuters-historical-exchange-rates"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "etf-corporate-action"
+          },
+          "datasets": [
+            {
+              "viewId": "etf-corporate-action"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "scenario-analysis-risk-model"
+          },
+          "datasets": [
+            {
+              "viewId": "scenario-analysis-risk-model"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-fund-level-physical-climate-risk-metrics"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-fund-level-physical-climate-risk-metrics"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "uk-sdr-core-package"
+          },
+          "datasets": [
+            {
+              "viewId": "uk-sdr-core-package"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "esg-company-level-data-sfdr-pai"
+          },
+          "datasets": [
+            {
+              "viewId": "esg-company-level-data-sfdr-pai"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "quantitative-equity-rating-analysis"
+          },
+          "datasets": [
+            {
+              "viewId": "quantitative-equity-rating-analysis"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "etf-trading-and-attributes"
+          },
+          "datasets": [
+            {
+              "viewId": "etf-trading-and-attributes"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "uk-sdr-enhanced-package"
+          },
+          "datasets": [
+            {
+              "viewId": "uk-sdr-enhanced-package"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "morningstar-essentials-base-package"
+          },
+          "datasets": [
+            {
+              "viewId": "morningstar-essentials-base-package"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "index-levels-price"
+          },
+          "datasets": [
+            {
+              "viewId": "index-levels-price"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "index-levels-price-time-series"
+          },
+          "datasets": [
+            {
+              "viewId": "index-levels-price-time-series"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "returns-performance-current"
+          },
+          "datasets": [
+            {
+              "viewId": "returns-performance-current"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "derived-statistics-from-index-levels"
+          },
+          "datasets": [
+            {
+              "viewId": "derived-statistics-from-index-levels"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "derived-statistics-from-index-levels-time-series"
+          },
+          "datasets": [
+            {
+              "viewId": "derived-statistics-from-index-levels-time-series"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "index-reference"
+          },
+          "datasets": [
+            {
+              "viewId": "index-reference"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "portfolio-composition-and-vehicle-allocation"
+          },
+          "datasets": [
+            {
+              "viewId": "portfolio-composition-and-vehicle-allocation"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "liquidity-analytics-ownership-breadth-and-vehicle-liquidity"
+          },
+          "datasets": [
+            {
+              "viewId": "liquidity-analytics-ownership-breadth-and-vehicle-liquidity"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "pre-launch-funds"
+          },
+          "datasets": [
+            {
+              "viewId": "pre-launch-funds"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-style-box"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-stock-grades"
+            },
+            {
+              "viewId": "equity-style-box"
+            },
+            {
+              "viewId": "equity-style-box-breakpoints"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-industry-classification"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-third-party-industry-classification"
+            },
+            {
+              "viewId": "equity-morningstar-industry-classification"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-market-capitalization-and-enterprise-value"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-market-capitalization-and-enterprise-value"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-total-shares-outstanding"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-total-shares-outstanding-share-level"
+            },
+            {
+              "viewId": "equity-total-shares-outstanding-company-level"
+            },
+            {
+              "viewId": "equity-total-shares-outstanding-unadjusted"
+            },
+            {
+              "viewId": "equity-total-shares-outstanding-treasury"
+            },
+            {
+              "viewId": "equity-total-shares-outstanding-unadjusted-treasury"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-basic-details"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-company-level-basic-details"
+            },
+            {
+              "viewId": "equity-security-level-basic-details"
+            },
+            {
+              "viewId": "equity-advisors"
+            },
+            {
+              "viewId": "equity-business-description"
+            },
+            {
+              "viewId": "equity-company-address"
+            },
+            {
+              "viewId": "equity-employee-number"
+            },
+            {
+              "viewId": "equity-preferred-stock-details"
+            },
+            {
+              "viewId": "equity-preferred-stock-payment-schedule"
+            },
+            {
+              "viewId": "equity-preferred-stock-redemption-schedule"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-basic-reference"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-basic-reference"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-residual-risk-and-return-sensitivity"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-monthly-residual-risk-and-return-sensitivity"
+            },
+            {
+              "viewId": "equity-trailing-residual-risk-and-return-sensitivity"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-returns"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-monthly-return-statistics"
+            },
+            {
+              "viewId": "equity-returns-to-date"
+            },
+            {
+              "viewId": "equity-trailing-return-statistics"
+            },
+            {
+              "viewId": "equity-trailing-returns"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-corporate-actions-price-mergers-and-acquisitions"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-capital-repayment"
+            },
+            {
+              "viewId": "equity-cash-dividend"
+            },
+            {
+              "viewId": "equity-mergers-and-acquisitions"
+            },
+            {
+              "viewId": "equity-rights-issue"
+            },
+            {
+              "viewId": "equity-spin-off"
+            },
+            {
+              "viewId": "equity-stock-split"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-financials"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-calculated-items-and-ratios-averages"
+            },
+            {
+              "viewId": "equity-debt-maturity-schedule"
+            },
+            {
+              "viewId": "equity-dividend-yields"
+            },
+            {
+              "viewId": "equity-enterprise-value-ratios"
+            },
+            {
+              "viewId": "equity-enterprise-value-ratios-averages"
+            },
+            {
+              "viewId": "equity-financial-statements-averages"
+            },
+            {
+              "viewId": "equity-financial-statements-calculated-items"
+            },
+            {
+              "viewId": "equity-financial-statements-earning-report"
+            },
+            {
+              "viewId": "equity-financial-statements-balance-sheet"
+            },
+            {
+              "viewId": "equity-financial-statements-cash-flow-statement"
+            },
+            {
+              "viewId": "equity-financial-statements-income-statement"
+            },
+            {
+              "viewId": "equity-financial-statements-per-share"
+            },
+            {
+              "viewId": "equity-financial-statements-per-share-averages"
+            },
+            {
+              "viewId": "equity-forward-financial-calculated-items"
+            },
+            {
+              "viewId": "equity-forward-metrics"
+            },
+            {
+              "viewId": "equity-growth-ratios"
+            },
+            {
+              "viewId": "equity-growth-ratios-enterprise-value-ratios"
+            },
+            {
+              "viewId": "equity-growth-ratios-price-multiples"
+            },
+            {
+              "viewId": "equity-growth-ratios-per-share"
+            },
+            {
+              "viewId": "equity-operation-ratios"
+            },
+            {
+              "viewId": "equity-operation-ratios-per-share"
+            },
+            {
+              "viewId": "equity-price-multiples"
+            },
+            {
+              "viewId": "equity-price-multiples-and-yields-averages"
+            },
+            {
+              "viewId": "equity-price-yields"
+            },
+            {
+              "viewId": "equity-segmentation"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-consensus-estimates"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-consensus-estimates"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-consensus-recommendations"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-consensus-recommendations"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-reference-change"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-isin-change"
+            },
+            {
+              "viewId": "equity-security-level-reference-change"
+            },
+            {
+              "viewId": "equity-company-level-reference-change"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-compensation"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-board-of-directors-compensation"
+            },
+            {
+              "viewId": "equity-pay-ratio"
+            },
+            {
+              "viewId": "equity-options-exercised"
+            },
+            {
+              "viewId": "equity-outstanding-awards"
+            },
+            {
+              "viewId": "equity-stock-option-grants"
+            },
+            {
+              "viewId": "equity-executive-officers-compensation"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-governance"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-board-and-committee-attendance"
+            },
+            {
+              "viewId": "equity-executive-officers-and-board-of-directors"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-ownership-asset-managers"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-ownership-detail-fund-company"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-ownership-insiders"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-insider-trading-activities"
+            },
+            {
+              "viewId": "equity-ownership-detail-insiders"
+            },
+            {
+              "viewId": "equity-ownership-detail-ten-percent-insiders"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-ownership-managed-investments"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-ownership-detail-mutual-fund"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-ownership-regulatory-reporting"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-ownership-detail-sec-and-sedar"
+            },
+            {
+              "viewId": "equity-uk-major-shareholder-transactions"
+            },
+            {
+              "viewId": "equity-ownership-detail-uk-significant-shareholders"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-ownership-summary"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-ownership-summary-funds-and-regulatory-filings"
+            },
+            {
+              "viewId": "equity-ownership-summary-insiders"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-short-interest"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-short-interest"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-key-events"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-key-events"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-quantitative-comparables"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-quantitative-comparables"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-aggregates-financials"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-industry-aggregates-dividend-yields"
+            },
+            {
+              "viewId": "equity-industry-aggregates-enterprise-value-ratios"
+            },
+            {
+              "viewId": "equity-industry-aggregates-financial-statements"
+            },
+            {
+              "viewId": "equity-industry-aggregates-operation-ratios"
+            },
+            {
+              "viewId": "equity-industry-aggregates-price-multiples"
+            },
+            {
+              "viewId": "equity-industry-aggregates-price-yields"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-aggregates-market-capitalization-and-enterprise-value"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-industry-aggregates-market-capitalization-and-enterprise-value"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-aggregates-residual-risk-and-return-sensitivity"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-industry-aggregates-residual-risk-and-return-sensitivity"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-aggregates-returns"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-industry-aggregates-trailing-returns"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-transcripts"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-earning-calls-transcripts"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "platform-and-super-fund-fee-and-features-data"
+          },
+          "datasets": [
+            {
+              "viewId": "platform-and-super-fund-fee-and-features-data"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-analyst-normalized-financials"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-analyst-normalized-financial-statements"
+            },
+            {
+              "viewId": "equity-analyst-normalized-financial-statements-per-share"
+            },
+            {
+              "viewId": "equity-analyst-normalized-valuation-ratios"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-shareholder-stewardship"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-say-on-pay"
+            },
+            {
+              "viewId": "equity-voting-report"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "equity-industry-specific-metrics"
+          },
+          "datasets": [
+            {
+              "viewId": "equity-bank-reserve-metrics"
+            },
+            {
+              "viewId": "equity-reit-metrics"
+            },
+            {
+              "viewId": "equity-reit-metrics-per-share"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "uk-fca-consumer-composite-investment-morningstar-data-extract"
+          },
+          "datasets": [
+            {
+              "viewId": "uk-fca-consumer-composite-investment-morningstar-data-extract"
+            }
+          ]
+        },
+        {
+          "package": {
+            "viewId": "semi-liquid-cost-estimates"
+          },
+          "datasets": [
+            {
+              "viewId": "semi-liquid-cost-estimates"
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "requestId": "4e131645-f899-43fa-a4da-1b3decaa56f8",
+        "time": "2026-10-06T15:46:00.7340379Z"
+      }
+    }
+  }
+}

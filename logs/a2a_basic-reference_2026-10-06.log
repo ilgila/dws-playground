@@ -1,0 +1,84 @@
+{
+  "timestamp_utc": "2026-10-06T15:41:38.519852Z",
+  "request": {
+    "method": "GET",
+    "url": "https://www.emea-api.morningstar.com/direct-web-services/v1/investments/0P00009DGW/equity-basic-reference",
+    "headers": {
+      "Authorization": "Bearer <redacted>"
+    }
+  },
+  "response": {
+    "http_status": 200,
+    "body": {
+      "companyInformation": {
+        "cik": "1437776",
+        "companyStatus": {
+          "value": "Public",
+          "code": "U"
+        },
+        "companyId": "0C00000QIT",
+        "globalTemplateIndustryTemplateCode": {
+          "value": "Normal",
+          "code": "N"
+        },
+        "legalName": "A2A SpA",
+        "legalNameLanguageCode": "ITA",
+        "lei": "81560076E3944316DB24",
+        "operationStatus": {
+          "value": "Normal",
+          "code": "N"
+        },
+        "shortName": "A2A",
+        "standardName": "A2A SpA"
+      },
+      "shareClassInformation": {
+        "exchangeCode": "MIL",
+        "exchangeSubMarketGlobalId": "EX$$$$MTAA",
+        "investmentId": "E0ITA010ZS",
+        "investmentStatus": 1,
+        "investmentType": "EQ",
+        "ipoDate": "1998-07-22",
+        "isDr": false,
+        "isin": "IT0001233417",
+        "isMainShare": {
+          "value": "YES",
+          "code": true
+        },
+        "isPrimaryPerformanceId": {
+          "value": "YES",
+          "code": true
+        },
+        "marketSymbol": "223.1.A2A",
+        "performanceStatus": {
+          "value": "Active",
+          "code": "A"
+        },
+        "securityType": "ST00000001",
+        "segmentMicCode": "XMIL",
+        "symbol": "A2A",
+        "tradingCurrency": "EUR",
+        "tradingStatus": {
+          "value": "trading",
+          "code": "0"
+        }
+      },
+      "entityReferenceCompanyLocalNames": [
+        {
+          "companyLocalName": "A2A SpA",
+          "localNameLanguageCode": "ENG"
+        },
+        {
+          "companyLocalName": "A2A SpA",
+          "localNameLanguageCode": "ITA"
+        }
+      ],
+      "identifiers": {
+        "performanceId": "0P00009DGW"
+      },
+      "metadata": {
+        "requestId": "fa61b4cf-83c9-46c4-a8da-399cfeb289f0",
+        "time": "2026-10-06T15:41:38.4568394Z"
+      }
+    }
+  }
+}

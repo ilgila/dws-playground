@@ -1,0 +1,1167 @@
+{
+  "investments": [],
+  "metadata": {
+    "requestId": "7abdbc28-8d23-4609-8837-b36ef4672c15",
+    "time": "2026-10-06T15:52:43.797122Z",
+    "exchanges": [
+      {
+        "exchangeCode": "SWA",
+        "micCode": "XSWA"
+      },
+      {
+        "exchangeCode": "XTER",
+        "micCode": "XETR"
+      },
+      {
+        "exchangeCode": "KAR",
+        "micCode": "XKAR"
+      },
+      {
+        "exchangeCode": "ZAG",
+        "micCode": "XZAG"
+      },
+      {
+        "exchangeCode": "MTAH",
+        "micCode": "MTAH"
+      },
+      {
+        "exchangeCode": "BJSE",
+        "micCode": "BJSE"
+      },
+      {
+        "exchangeCode": "OVSE",
+        "micCode": "XLIT"
+      },
+      {
+        "exchangeCode": "LUX",
+        "micCode": "XLUX"
+      },
+      {
+        "exchangeCode": "DUB",
+        "micCode": "XDUB"
+      },
+      {
+        "exchangeCode": "SHSE",
+        "micCode": "XSHG"
+      },
+      {
+        "exchangeCode": "RTC",
+        "micCode": "null"
+      },
+      {
+        "exchangeCode": "XAMS",
+        "micCode": "XAMS"
+      },
+      {
+        "exchangeCode": "WAR",
+        "micCode": "XWAR"
+      },
+      {
+        "exchangeCode": "HAM",
+        "micCode": "XHAM"
+      },
+      {
+        "exchangeCode": "COL",
+        "micCode": "XCOL"
+      },
+      {
+        "exchangeCode": "BOM",
+        "micCode": "XBOM"
+      },
+      {
+        "exchangeCode": "TSX",
+        "micCode": "XTSE"
+      },
+      {
+        "exchangeCode": "DAR",
+        "micCode": "XDAR"
+      },
+      {
+        "exchangeCode": "OTCPK",
+        "micCode": "PINX"
+      },
+      {
+        "exchangeCode": "NSA",
+        "micCode": "XNSA"
+      },
+      {
+        "exchangeCode": "MAL",
+        "micCode": "XMAL"
+      },
+      {
+        "exchangeCode": "DSMD",
+        "micCode": "DSMD"
+      },
+      {
+        "exchangeCode": "DFM",
+        "micCode": "XDFM"
+      },
+      {
+        "exchangeCode": "ARCA",
+        "micCode": "ARCX"
+      },
+      {
+        "exchangeCode": "ATH",
+        "micCode": "XATH"
+      },
+      {
+        "exchangeCode": "XBRA",
+        "micCode": "XBRA"
+      },
+      {
+        "exchangeCode": "LSE",
+        "micCode": "XLON"
+      },
+      {
+        "exchangeCode": "BVMF",
+        "micCode": "BVMF"
+      },
+      {
+        "exchangeCode": "XSSC",
+        "micCode": "XSSC"
+      },
+      {
+        "exchangeCode": "XNEC",
+        "micCode": "XNEC"
+      },
+      {
+        "exchangeCode": "XGUA",
+        "micCode": "XGUA"
+      },
+      {
+        "exchangeCode": "KUW",
+        "micCode": "XKUW"
+      },
+      {
+        "exchangeCode": "XTEH",
+        "micCode": "XTEH"
+      },
+      {
+        "exchangeCode": "XLJU",
+        "micCode": "XLJU"
+      },
+      {
+        "exchangeCode": "ASX",
+        "micCode": "XASX"
+      },
+      {
+        "exchangeCode": "PHS",
+        "micCode": "XPHS"
+      },
+      {
+        "exchangeCode": "XSAT",
+        "micCode": "XSAT"
+      },
+      {
+        "exchangeCode": "XZIM",
+        "micCode": "XZIM"
+      },
+      {
+        "exchangeCode": "STU",
+        "micCode": "XSTU"
+      },
+      {
+        "exchangeCode": "XPAE",
+        "micCode": "XPAE"
+      },
+      {
+        "exchangeCode": "BEY",
+        "micCode": "XBEY"
+      },
+      {
+        "exchangeCode": "BOT",
+        "micCode": "XBOT"
+      },
+      {
+        "exchangeCode": "MISX",
+        "micCode": "MISX"
+      },
+      {
+        "exchangeCode": "OSL",
+        "micCode": "XOSL"
+      },
+      {
+        "exchangeCode": "CEUX",
+        "micCode": "CEUX"
+      },
+      {
+        "exchangeCode": "XTRN",
+        "micCode": "XTRN"
+      },
+      {
+        "exchangeCode": "IPSX",
+        "micCode": "IPSX"
+      },
+      {
+        "exchangeCode": "RTO",
+        "micCode": "null"
+      },
+      {
+        "exchangeCode": "OTSE",
+        "micCode": "XTAL"
+      },
+      {
+        "exchangeCode": "UKEX",
+        "micCode": "UKEX"
+      },
+      {
+        "exchangeCode": "SZSC",
+        "micCode": "SZSC"
+      },
+      {
+        "exchangeCode": "XPAR",
+        "micCode": "XPAR"
+      },
+      {
+        "exchangeCode": "SAU",
+        "micCode": "XSAU"
+      },
+      {
+        "exchangeCode": "XBRU",
+        "micCode": "XBRU"
+      },
+      {
+        "exchangeCode": "BSE",
+        "micCode": "XBSE"
+      },
+      {
+        "exchangeCode": "XMAU",
+        "micCode": "XMAU"
+      },
+      {
+        "exchangeCode": "XGHA",
+        "micCode": "XGHA"
+      },
+      {
+        "exchangeCode": "MEX",
+        "micCode": "XMEX"
+      },
+      {
+        "exchangeCode": "XSEC",
+        "micCode": "XSEC"
+      },
+      {
+        "exchangeCode": "OSTO",
+        "micCode": "XSTO"
+      },
+      {
+        "exchangeCode": "BUE",
+        "micCode": "XBUE"
+      },
+      {
+        "exchangeCode": "MUS",
+        "micCode": "XMUS"
+      },
+      {
+        "exchangeCode": "OCSE",
+        "micCode": "XCSE"
+      },
+      {
+        "exchangeCode": "TSXV",
+        "micCode": "XTSX"
+      },
+      {
+        "exchangeCode": "FRA",
+        "micCode": "XFRA"
+      },
+      {
+        "exchangeCode": "XCNQ",
+        "micCode": "XCNQ"
+      },
+      {
+        "exchangeCode": "CAS",
+        "micCode": "XCAS"
+      },
+      {
+        "exchangeCode": "CHIX",
+        "micCode": "CHIX"
+      },
+      {
+        "exchangeCode": "BOG",
+        "micCode": "XBOG"
+      },
+      {
+        "exchangeCode": "PFTS",
+        "micCode": "PFTS"
+      },
+      {
+        "exchangeCode": "IST",
+        "micCode": "XIST"
+      },
+      {
+        "exchangeCode": "TPE",
+        "micCode": "XTAI"
+      },
+      {
+        "exchangeCode": "NZSE",
+        "micCode": "XNZE"
+      },
+      {
+        "exchangeCode": "ISX",
+        "micCode": "XIDX"
+      },
+      {
+        "exchangeCode": "BUD",
+        "micCode": "XBUD"
+      },
+      {
+        "exchangeCode": "RTD",
+        "micCode": "null"
+      },
+      {
+        "exchangeCode": "TBSX",
+        "micCode": "TBSX"
+      },
+      {
+        "exchangeCode": "BATS",
+        "micCode": "BATS"
+      },
+      {
+        "exchangeCode": "XMNX",
+        "micCode": "XMNX"
+      },
+      {
+        "exchangeCode": "NGO",
+        "micCode": "XNGO"
+      },
+      {
+        "exchangeCode": "NAM",
+        "micCode": "XNAM"
+      },
+      {
+        "exchangeCode": "NEOE",
+        "micCode": "NEOE"
+      },
+      {
+        "exchangeCode": "GREY",
+        "micCode": "PSGM"
+      },
+      {
+        "exchangeCode": "ARM",
+        "micCode": "ARM"
+      },
+      {
+        "exchangeCode": "NYSE",
+        "micCode": "XNYS"
+      },
+      {
+        "exchangeCode": "XKRX",
+        "micCode": "XKRX"
+      },
+      {
+        "exchangeCode": "AMEX",
+        "micCode": "XASE"
+      },
+      {
+        "exchangeCode": "ORSE",
+        "micCode": "XRIS"
+      },
+      {
+        "exchangeCode": "TSE",
+        "micCode": "XTKS"
+      },
+      {
+        "exchangeCode": "OSE",
+        "micCode": "OSE"
+      },
+      {
+        "exchangeCode": "MSW",
+        "micCode": "XMSW"
+      },
+      {
+        "exchangeCode": "XBUL",
+        "micCode": "XBUL"
+      },
+      {
+        "exchangeCode": "XNEP",
+        "micCode": "XNEP"
+      },
+      {
+        "exchangeCode": "$$$",
+        "micCode": "$$$"
+      },
+      {
+        "exchangeCode": "XLIS",
+        "micCode": "XLIS"
+      },
+      {
+        "exchangeCode": "JSE",
+        "micCode": "XJSE"
+      },
+      {
+        "exchangeCode": "XMAD",
+        "micCode": "XMAD"
+      },
+      {
+        "exchangeCode": "XTAE",
+        "micCode": "XTAE"
+      },
+      {
+        "exchangeCode": "FSE",
+        "micCode": "XFKA"
+      },
+      {
+        "exchangeCode": "MIL",
+        "micCode": "XMIL"
+      },
+      {
+        "exchangeCode": "NGM",
+        "micCode": "XNGM"
+      },
+      {
+        "exchangeCode": "AQSE",
+        "micCode": "AQSE"
+      },
+      {
+        "exchangeCode": "XKLS",
+        "micCode": "XKLS"
+      },
+      {
+        "exchangeCode": "BDA",
+        "micCode": "XBDA"
+      },
+      {
+        "exchangeCode": "STC",
+        "micCode": "XSTC"
+      },
+      {
+        "exchangeCode": "QUI",
+        "micCode": "XQUI"
+      },
+      {
+        "exchangeCode": "LTS",
+        "micCode": "XLON"
+      },
+      {
+        "exchangeCode": "MNT",
+        "micCode": "XMNT"
+      },
+      {
+        "exchangeCode": "BKK",
+        "micCode": "XBKK"
+      },
+      {
+        "exchangeCode": "ROCO",
+        "micCode": "ROCO"
+      },
+      {
+        "exchangeCode": "HKSE",
+        "micCode": "XHKG"
+      },
+      {
+        "exchangeCode": "XBEL",
+        "micCode": "XBEL"
+      },
+      {
+        "exchangeCode": "OHEL",
+        "micCode": "XHEL"
+      },
+      {
+        "exchangeCode": "XMAE",
+        "micCode": "XMAE"
+      },
+      {
+        "exchangeCode": "XSWX",
+        "micCode": "XSWX"
+      },
+      {
+        "exchangeCode": "IEXG",
+        "micCode": "IEXG"
+      },
+      {
+        "exchangeCode": "BER",
+        "micCode": "XBER"
+      },
+      {
+        "exchangeCode": "LIM",
+        "micCode": "XLIM"
+      },
+      {
+        "exchangeCode": "XJAM",
+        "micCode": "XJAM"
+      },
+      {
+        "exchangeCode": "NAS",
+        "micCode": "XNAS"
+      },
+      {
+        "exchangeCode": "OISE",
+        "micCode": "XICE"
+      },
+      {
+        "exchangeCode": "SGX",
+        "micCode": "XSES"
+      },
+      {
+        "exchangeCode": "XPTY",
+        "micCode": "XPTY"
+      },
+      {
+        "exchangeCode": "MUN",
+        "micCode": "XMUN"
+      },
+      {
+        "exchangeCode": "NAI",
+        "micCode": "XNAI"
+      },
+      {
+        "exchangeCode": "DUS",
+        "micCode": "XDUS"
+      },
+      {
+        "exchangeCode": "XBOL",
+        "micCode": "XBOL"
+      },
+      {
+        "exchangeCode": "NSE",
+        "micCode": "XNSE"
+      },
+      {
+        "exchangeCode": "XPRA",
+        "micCode": "XPRA"
+      },
+      {
+        "exchangeCode": "HSTC",
+        "micCode": "HSTC"
+      },
+      {
+        "exchangeCode": "DIFX",
+        "micCode": "DIFX"
+      },
+      {
+        "exchangeCode": "CAI",
+        "micCode": "XCAI"
+      },
+      {
+        "exchangeCode": "BAH",
+        "micCode": "XBAH"
+      },
+      {
+        "exchangeCode": "OTCBB",
+        "micCode": "XOTC"
+      },
+      {
+        "exchangeCode": "IQS",
+        "micCode": "XIQS"
+      },
+      {
+        "exchangeCode": "XKAZ",
+        "micCode": "XKAZ"
+      },
+      {
+        "exchangeCode": "XBLB",
+        "micCode": "XBLB"
+      },
+      {
+        "exchangeCode": "AMM",
+        "micCode": "XAMM"
+      },
+      {
+        "exchangeCode": "SZSE",
+        "micCode": "XSHE"
+      },
+      {
+        "exchangeCode": "CYS",
+        "micCode": "XCYS"
+      },
+      {
+        "exchangeCode": "BVCA",
+        "micCode": "BVCA"
+      },
+      {
+        "exchangeCode": "ADX",
+        "micCode": "XADS"
+      },
+      {
+        "exchangeCode": "OTCM",
+        "micCode": "OTCM"
+      },
+      {
+        "exchangeCode": "LUS",
+        "micCode": "XLUS"
+      },
+      {
+        "exchangeCode": "JAS",
+        "micCode": "JAS"
+      },
+      {
+        "exchangeCode": "DHA",
+        "micCode": "XDHA"
+      },
+      {
+        "exchangeCode": "WBO",
+        "micCode": "XWBO"
+      },
+      {
+        "exchangeCode": "HAN",
+        "micCode": "XHAN"
+      },
+      {
+        "exchangeCode": "XTUN",
+        "micCode": "XTUN"
+      },
+      {
+        "exchangeCode": "SSE",
+        "micCode": "XSAP"
+      },
+      {
+        "exchangeCode": "XBRV",
+        "micCode": "XBRV"
+      },
+      {
+        "exchangeCode": "XSGO",
+        "micCode": "XSGO"
+      },
+      {
+        "exchangeCode": "SHSC",
+        "micCode": "SHSC"
+      }
+    ],
+    "countryAvailableForSale": [
+      "ABW",
+      "AFG",
+      "AGO",
+      "AIA",
+      "ALA",
+      "ALB",
+      "AND",
+      "ANT",
+      "ARE",
+      "ARG",
+      "ARM",
+      "ASM",
+      "CYM",
+      "ATA",
+      "ATF",
+      "ATG",
+      "AUS",
+      "AUT",
+      "AZE",
+      "BDI",
+      "BEL",
+      "BEN",
+      "BES",
+      "BFA",
+      "BGD",
+      "BGR",
+      "BHR",
+      "BHS",
+      "BIH",
+      "BLR",
+      "BLZ",
+      "BMU",
+      "BOL",
+      "BRA",
+      "BRB",
+      "BRN",
+      "BTN",
+      "BVT",
+      "BWA",
+      "CAF",
+      "CAN",
+      "CCK",
+      "CHE",
+      "CHI",
+      "CHL",
+      "CHN",
+      "CIV",
+      "CMR",
+      "COD",
+      "COG",
+      "COK",
+      "COL",
+      "COM",
+      "CPV",
+      "CRI",
+      "CSK",
+      "CUB",
+      "CUW",
+      "CXR",
+      "CYP",
+      "CZE",
+      "DEU",
+      "DJI",
+      "DMA",
+      "DNK",
+      "DOM",
+      "DZA",
+      "ECU",
+      "EGY",
+      "ERI",
+      "ESH",
+      "ESP",
+      "EST",
+      "ETH",
+      "FIN",
+      "FJI",
+      "FLK",
+      "FRA",
+      "FRO",
+      "FSM",
+      "FXX",
+      "GAB",
+      "GBE",
+      "GBN",
+      "GBR",
+      "GBS",
+      "GBW",
+      "GEO",
+      "GGY",
+      "GHA",
+      "GIB",
+      "GIN",
+      "GLP",
+      "GMB",
+      "GNB",
+      "GNQ",
+      "GRC",
+      "GRD",
+      "GRL",
+      "GTM",
+      "GUF",
+      "GUM",
+      "GUY",
+      "HKG",
+      "HMD",
+      "HND",
+      "HRV",
+      "HTI",
+      "HUN",
+      "IDN",
+      "IMN",
+      "IND",
+      "IOM",
+      "IOT",
+      "IRL",
+      "IRN",
+      "IRQ",
+      "ISL",
+      "ISR",
+      "ITA",
+      "IXX",
+      "JAM",
+      "JEY",
+      "JOR",
+      "JPN",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KHM",
+      "KIR",
+      "KNA",
+      "KOR",
+      "KOS",
+      "KWT",
+      "LAO",
+      "LBN",
+      "LBR",
+      "LBY",
+      "LCA",
+      "LIE",
+      "LKA",
+      "LSO",
+      "LTU",
+      "LUX",
+      "LVA",
+      "MAC",
+      "MAF",
+      "MAR",
+      "MCO",
+      "MDA",
+      "MDG",
+      "MDV",
+      "MEX",
+      "MHL",
+      "MKD",
+      "MLI",
+      "MLT",
+      "MMR",
+      "MNE",
+      "MNG",
+      "MNP",
+      "MOZ",
+      "MRT",
+      "MSR",
+      "MTQ",
+      "MUS",
+      "MWI",
+      "MYS",
+      "MYT",
+      "NAM",
+      "NCL",
+      "NER",
+      "NFK",
+      "NGA",
+      "NIC",
+      "NIU",
+      "NLD",
+      "NOA",
+      "NOR",
+      "NPL",
+      "NRU",
+      "NZL",
+      "OMN",
+      "PAK",
+      "PAN",
+      "PCN",
+      "PER",
+      "PHL",
+      "PLW",
+      "PNG",
+      "POL",
+      "PRI",
+      "PRK",
+      "PRT",
+      "PRY",
+      "PSE",
+      "PYF",
+      "QAT",
+      "REU",
+      "ROM",
+      "ROU",
+      "RUS",
+      "RWA",
+      "RYU",
+      "SAU",
+      "SCG",
+      "SDN",
+      "SEN",
+      "SGP",
+      "SGS",
+      "SHN",
+      "SJM",
+      "SLB",
+      "SLE",
+      "SLV",
+      "SMR",
+      "SOM",
+      "SPM",
+      "SPR",
+      "SRB",
+      "SSD",
+      "STP",
+      "SUR",
+      "SVK",
+      "SVN",
+      "SWE",
+      "SWZ",
+      "SXM",
+      "SYC",
+      "SYR",
+      "TCA",
+      "TCD",
+      "TGO",
+      "THA",
+      "TJK",
+      "TKL",
+      "TKM",
+      "TLS",
+      "TMP",
+      "TON",
+      "TTO",
+      "TUN",
+      "TUR",
+      "TUV",
+      "TWN",
+      "TZA",
+      "UGA",
+      "UKR",
+      "UMI",
+      "URY",
+      "USA",
+      "UZB",
+      "VAT",
+      "VCT",
+      "VEN",
+      "VGB",
+      "VIR",
+      "VNM",
+      "VUT",
+      "WBG",
+      "WLF",
+      "WSM",
+      "YAR",
+      "YEM",
+      "YMD",
+      "YPD",
+      "YUG",
+      "ZAF",
+      "ZMB",
+      "ZRE",
+      "ZWE"
+    ],
+    "domiciles": [
+      "ABW",
+      "AFG",
+      "AGO",
+      "AIA",
+      "ALA",
+      "ALB",
+      "AND",
+      "ANT",
+      "ARE",
+      "ARG",
+      "ARM",
+      "ASM",
+      "CYM",
+      "ATA",
+      "ATF",
+      "ATG",
+      "AUS",
+      "AUT",
+      "AZE",
+      "BDI",
+      "BEL",
+      "BEN",
+      "BES",
+      "BFA",
+      "BGD",
+      "BGR",
+      "BHR",
+      "BHS",
+      "BIH",
+      "BLR",
+      "BLZ",
+      "BMU",
+      "BOL",
+      "BRA",
+      "BRB",
+      "BRN",
+      "BTN",
+      "BVT",
+      "BWA",
+      "CAF",
+      "CAN",
+      "CCK",
+      "CHE",
+      "CHI",
+      "CHL",
+      "CHN",
+      "CIV",
+      "CMR",
+      "COD",
+      "COG",
+      "COK",
+      "COL",
+      "COM",
+      "CPV",
+      "CRI",
+      "CSK",
+      "CUB",
+      "CUW",
+      "CXR",
+      "CYP",
+      "CZE",
+      "DEU",
+      "DJI",
+      "DMA",
+      "DNK",
+      "DOM",
+      "DZA",
+      "ECU",
+      "EGY",
+      "ERI",
+      "ESH",
+      "ESP",
+      "EST",
+      "ETH",
+      "FIN",
+      "FJI",
+      "FLK",
+      "FRA",
+      "FRO",
+      "FSM",
+      "FXX",
+      "GAB",
+      "GBE",
+      "GBN",
+      "GBR",
+      "GBS",
+      "GBW",
+      "GEO",
+      "GGY",
+      "GHA",
+      "GIB",
+      "GIN",
+      "GLP",
+      "GMB",
+      "GNB",
+      "GNQ",
+      "GRC",
+      "GRD",
+      "GRL",
+      "GTM",
+      "GUF",
+      "GUM",
+      "GUY",
+      "HKG",
+      "HMD",
+      "HND",
+      "HRV",
+      "HTI",
+      "HUN",
+      "IDN",
+      "IMN",
+      "IND",
+      "IOM",
+      "IOT",
+      "IRL",
+      "IRN",
+      "IRQ",
+      "ISL",
+      "ISR",
+      "ITA",
+      "IXX",
+      "JAM",
+      "JEY",
+      "JOR",
+      "JPN",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KHM",
+      "KIR",
+      "KNA",
+      "KOR",
+      "KOS",
+      "KWT",
+      "LAO",
+      "LBN",
+      "LBR",
+      "LBY",
+      "LCA",
+      "LIE",
+      "LKA",
+      "LSO",
+      "LTU",
+      "LUX",
+      "LVA",
+      "MAC",
+      "MAF",
+      "MAR",
+      "MCO",
+      "MDA",
+      "MDG",
+      "MDV",
+      "MEX",
+      "MHL",
+      "MKD",
+      "MLI",
+      "MLT",
+      "MMR",
+      "MNE",
+      "MNG",
+      "MNP",
+      "MOZ",
+      "MRT",
+      "MSR",
+      "MTQ",
+      "MUS",
+      "MWI",
+      "MYS",
+      "MYT",
+      "NAM",
+      "NCL",
+      "NER",
+      "NFK",
+      "NGA",
+      "NIC",
+      "NIU",
+      "NLD",
+      "NOA",
+      "NOR",
+      "NPL",
+      "NRU",
+      "NZL",
+      "OMN",
+      "PAK",
+      "PAN",
+      "PCN",
+      "PER",
+      "PHL",
+      "PLW",
+      "PNG",
+      "POL",
+      "PRI",
+      "PRK",
+      "PRT",
+      "PRY",
+      "PSE",
+      "PYF",
+      "QAT",
+      "REU",
+      "ROM",
+      "ROU",
+      "RUS",
+      "RWA",
+      "RYU",
+      "SAU",
+      "SCG",
+      "SDN",
+      "SEN",
+      "SGP",
+      "SGS",
+      "SHN",
+      "SJM",
+      "SLB",
+      "SLE",
+      "SLV",
+      "SMR",
+      "SOM",
+      "SPM",
+      "SPR",
+      "SRB",
+      "SSD",
+      "STP",
+      "SUR",
+      "SVK",
+      "SVN",
+      "SWE",
+      "SWZ",
+      "SXM",
+      "SYC",
+      "SYR",
+      "TCA",
+      "TCD",
+      "TGO",
+      "THA",
+      "TJK",
+      "TKL",
+      "TKM",
+      "TLS",
+      "TMP",
+      "TON",
+      "TTO",
+      "TUN",
+      "TUR",
+      "TUV",
+      "TWN",
+      "TZA",
+      "UGA",
+      "UKR",
+      "UMI",
+      "URY",
+      "USA",
+      "UZB",
+      "VAT",
+      "VCT",
+      "VEN",
+      "VGB",
+      "VIR",
+      "VNM",
+      "VUT",
+      "WBG",
+      "WLF",
+      "WSM",
+      "YAR",
+      "YEM",
+      "YMD",
+      "YPD",
+      "YUG",
+      "ZAF",
+      "ZMB",
+      "ZRE",
+      "ZWE"
+    ]
+  }
+}
