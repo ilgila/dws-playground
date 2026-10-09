@@ -45,3 +45,4 @@ shapes.
    via `/investments` without an investment ID and save the response to JSON.
 - [views-list](../skills/views-list/SKILL.md): retrieve entitled data-package
    views via `/investments/views`.
+- [view-download](../skills/view-download/SKILL.md): download a specific data-package view via `/investments/views/{viewId}` and save the response to JSON.
