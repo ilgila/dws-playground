@@ -58,7 +58,7 @@ Investment Details API, and save the results to a JSON file for reference.
 
    ```bash
    mkdir -p logs
-   cp /tmp/dws_views.json "logs/exchange-list_$(date +%Y-%m-%d).json"
+   cp /tmp/dws_views.json "logs/views_$(date +%Y-%m-%d).json"
    rm -f /tmp/dws_token.json /tmp/dws_views.json
    ```
 

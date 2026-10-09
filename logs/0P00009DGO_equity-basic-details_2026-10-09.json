@@ -1,0 +1,115 @@
+{
+  "companyAddress": [
+    {
+      "addressLine1": "Piazzale Dino Viola, No. 1",
+      "addressType": {
+        "value": "Headquarter",
+        "code": "1"
+      },
+      "city": "Rome",
+      "countryCode": {
+        "value": "Italy",
+        "code": "ITA"
+      },
+      "languageCode": {
+        "value": "English",
+        "code": "ENG"
+      },
+      "phone": "+39 650191899",
+      "postalCode": "00128"
+    }
+  ],
+  "companyAdvisor": [
+    {
+      "asOfDate": "2021-06-30",
+      "addressLine1": "Via della Camilluccia, 589 / A",
+      "advisorLegalName": "Deloitte & Touche Spa",
+      "advisorType": "Auditor",
+      "city": "Rome",
+      "country": "ITA",
+      "isJointRole": false,
+      "languageCode": "ENG",
+      "phone": "+39 6367491",
+      "postalCode": "00135",
+      "source": "Annual Report",
+      "webAddress": "www2.deloitte.com"
+    }
+  ],
+  "companyInformation": {
+    "businessCountryCode": {
+      "value": "Italy",
+      "code": "ITA"
+    },
+    "domicileCountryCode": {
+      "value": "Italy",
+      "code": "ITA"
+    },
+    "expectedFiscalYearEnd": "2022-06-30",
+    "fiscalYearEnd": {
+      "value": "Jun",
+      "code": 6
+    },
+    "isBusinessDevelopmentCompany": {
+      "value": "NO",
+      "code": false
+    },
+    "isLimitedLiabilityCompany": {
+      "value": "NO",
+      "code": false
+    },
+    "isLimitedPartnership": {
+      "value": "NO",
+      "code": false
+    },
+    "isMasterLimitedPartnership": {
+      "value": "NO",
+      "code": false
+    },
+    "isReit": {
+      "value": "NO",
+      "code": false
+    },
+    "isShellCompany": {
+      "value": "NO",
+      "code": false
+    },
+    "isSpecialPurposeAcquisitionCompany": {
+      "value": "NO",
+      "code": false
+    },
+    "stateOrCountryOfIncorporation": "Italy",
+    "webAddress": "https://www.asroma.it",
+    "yearOfEstablishment": 1927
+  },
+  "companyProfile": [
+    {
+      "asOfDate": "2019-12-19",
+      "languageCode": "ENG",
+      "longDescription": "A.S. Roma SpA is engaged in running and managing the AS Roma soccer team. It provides the organization of soccer matches, which includes the ticket sale, the sale of television and radio rights for the match transmissions and rights."
+    }
+  ],
+  "employeeNumber": [
+    {
+      "asOfDate": "2021-12-31",
+      "fullTimeEmployeeNumber": 229,
+      "totalEmployeeNumber": 229
+    }
+  ],
+  "shareClassInformation": {
+    "conversionRatio": 1.0,
+    "drRatio": 1.0,
+    "investmentName": "A.S. Roma SpA Common Stock",
+    "investmentPrimaryIssuer": {
+      "value": "denotes primary Investment Id/ Issuer Id",
+      "code": "1"
+    },
+    "parValue": 0.15
+  },
+  "identifiers": {
+    "performanceId": "0P00009DGO"
+  },
+  "metadata": {
+    "requestId": "92b03c51-6004-4595-a020-4e47efc6e7d7",
+    "time": "2026-10-09T15:56:48.2623782Z"
+  }
+}
